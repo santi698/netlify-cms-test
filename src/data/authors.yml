@@ -1,0 +1,133 @@
+authors:
+- name: Agustín Pagnoni
+  slug: agustin
+  avatar:
+    '24': https://increasecard.com/wp-content/uploads/2018/06/Agustín-24x24.jpg
+    '48': https://increasecard.com/wp-content/uploads/2018/06/Agustín-48x48.jpg
+    '96': https://increasecard.com/wp-content/uploads/2018/06/Agustín-96x96.jpg
+- name: Alvaro Casas
+  slug: alvaro-casas
+  avatar:
+    '24': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_4_1502885936.jpg
+    '48': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_4_1502885936.jpg
+    '96': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_4_1502885936-96x96.jpg
+- name: amit
+  slug: amit
+  avatar:
+    '24': https://secure.gravatar.com/avatar/c0fa48843a648514c09c9870c3444fb4?s=24&d=mm&r=g
+    '48': https://secure.gravatar.com/avatar/c0fa48843a648514c09c9870c3444fb4?s=48&d=mm&r=g
+    '96': https://secure.gravatar.com/avatar/c0fa48843a648514c09c9870c3444fb4?s=96&d=mm&r=g
+- name: Daniel Tricarico
+  slug: daniel-tricarico
+  avatar:
+    '24': https://secure.gravatar.com/avatar/?s=24&d=mm&r=g
+    '48': https://secure.gravatar.com/avatar/?s=48&d=mm&r=g
+    '96': https://secure.gravatar.com/avatar/?s=96&d=mm&r=g
+- name: El Equipo de Increase
+  slug: el-equipo-de-increase
+  avatar:
+    '24': https://increasecard.com/wp-content/uploads/2018/03/Equipo-de-Increase-24x24.png
+    '48': https://increasecard.com/wp-content/uploads/2018/03/Equipo-de-Increase-48x48.png
+    '96': https://increasecard.com/wp-content/uploads/2018/03/Equipo-de-Increase-96x96.png
+- name: Espacio Negocios
+  slug: blog-espacio-negocios
+  avatar:
+    '24': https://increasecard.com/wp-content/uploads/2018/03/BlogEspacioNegocios-24x24.jpg
+    '48': https://increasecard.com/wp-content/uploads/2018/03/BlogEspacioNegocios-48x48.jpg
+    '96': https://increasecard.com/wp-content/uploads/2018/03/BlogEspacioNegocios-96x96.jpg
+- name: Esteban Soler
+  slug: esteban-soler
+  avatar:
+    '24': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_9_1502888020.jpg
+    '48': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_9_1502888020.jpg
+    '96': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_9_1502888020-96x96.jpg
+- name: Estudio Barrero &amp; Larroudé
+  slug: estudio-barrero-larroude
+  avatar:
+    '24': https://increasecard.com/wp-content/uploads/2018/03/umtgf26S_400x400-24x24.png
+    '48': https://increasecard.com/wp-content/uploads/2018/03/umtgf26S_400x400-48x48.png
+    '96': https://increasecard.com/wp-content/uploads/2018/03/umtgf26S_400x400-96x96.png
+- name: Juan De Vincenti
+  slug: juan-de-vincenti
+  avatar:
+    '24': https://increasecard.com/wp-content/uploads/2018/03/JuanDeVicenti-24x24.jpg
+    '48': https://increasecard.com/wp-content/uploads/2018/03/JuanDeVicenti-48x48.jpg
+    '96': https://increasecard.com/wp-content/uploads/2018/03/JuanDeVicenti-96x96.jpg
+- name: Maru Buteler
+  slug: maru-buteler
+  avatar:
+    '24': https://www.increasecard.com/wp-content/uploads/2018/07/Maru_Buteler-24x24.jpg
+    '48': https://www.increasecard.com/wp-content/uploads/2018/07/Maru_Buteler-48x48.jpg
+    '96': https://increasecard.com/wp-content/uploads/2018/07/Maru_Buteler-96x96.jpg
+- name: Matías Doublier
+  slug: matias-doublier
+  avatar:
+    '24': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_6_1502886428.jpg
+    '48': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_6_1502886428.jpg
+    '96': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_6_1502886428-96x96.jpg
+- name: Matías Iturralde
+  slug: matias-iturralde
+  avatar:
+    '24': https://increasecard.com/wp-content/uploads/2018/03/CFO3-24x24.jpg
+    '48': https://increasecard.com/wp-content/uploads/2018/03/CFO3-48x48.jpg
+    '96': https://increasecard.com/wp-content/uploads/2018/03/CFO3-96x96.jpg
+- name: Mayra Cáceres
+  slug: mayra-caceres
+  avatar:
+    '24': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_5_1502886371.jpg
+    '48': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_5_1502886371.jpg
+    '96': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_5_1502886371-96x96.jpg
+- name: Michelle Faerman
+  slug: michelle-faerman
+  avatar:
+    '24': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_8_1502887929.jpg
+    '48': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_8_1502887929.jpg
+    '96': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_8_1502887929-96x96.jpg
+- name: Pablo Croci
+  slug: pablo
+  avatar:
+    '24': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_2_1502833574-24x24.jpg
+    '48': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_2_1502833574-48x48.jpg
+    '96': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_2_1502833574-96x96.jpg
+- name: Romina Mazzaferri
+  slug: romina-mazzaferri
+  avatar:
+    '24': https://increasecard.com/wp-content/uploads/2018/05/Romina1-24x24.jpg
+    '48': https://increasecard.com/wp-content/uploads/2018/05/Romina1-48x48.jpg
+    '96': https://increasecard.com/wp-content/uploads/2018/05/Romina1-96x96.jpg
+- name: Romina Riedel
+  slug: romina-riedel
+  avatar:
+    '24': https://increasecard.com/wp-content/uploads/2018/05/Romina-Riedel-24x24.jpg
+    '48': https://increasecard.com/wp-content/uploads/2018/05/Romina-Riedel-48x48.jpg
+    '96': https://increasecard.com/wp-content/uploads/2018/05/Romina-Riedel-96x96.jpg
+- name: Sebastián Cadenas
+  slug: sebastian-cadenas
+  avatar:
+    '24': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_7_1502887105.jpg
+    '48': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_7_1502887105.jpg
+    '96': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_7_1502887105-96x96.jpg
+- name: Tienda Nube
+  slug: tn
+  avatar:
+    '24': https://increasecard.com/wp-content/uploads/2018/04/avatar_user_21_1523537246.jpg
+    '48': https://increasecard.com/wp-content/uploads/2018/04/avatar_user_21_1523537246.jpg
+    '96': https://increasecard.com/wp-content/uploads/2018/04/avatar_user_21_1523537246-96x96.jpg
+- name: Tomás Marconi
+  slug: tomas-marconi
+  avatar:
+    '24': https://increasecard.com/wp-content/uploads/2019/02/Captura-de-pantalla-2019-02-26-a-las-14.57.25-24x24.png
+    '48': https://increasecard.com/wp-content/uploads/2019/02/Captura-de-pantalla-2019-02-26-a-las-14.57.25-48x48.png
+    '96': https://increasecard.com/wp-content/uploads/2019/02/Captura-de-pantalla-2019-02-26-a-las-14.57.25-96x96.png
+- name: user
+  slug: user
+  avatar:
+    '24': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_1_1502314396-24x24.png
+    '48': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_1_1502314396-48x48.png
+    '96': https://s3-sa-east-1.amazonaws.com/uploads-web-increase/wp-content/uploads/2017/08/avatar_user_1_1502314396-96x96.png
+- name: Ximena Beilin
+  slug: ximena-beilin
+  avatar:
+    '24': https://increasecard.com/wp-content/uploads/2018/05/avatar_user_22_1527719194-24x24.jpg
+    '48': https://increasecard.com/wp-content/uploads/2018/05/avatar_user_22_1527719194-48x48.jpg
+    '96': https://increasecard.com/wp-content/uploads/2018/05/avatar_user_22_1527719194-96x96.jpg
